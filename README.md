@@ -1,4 +1,4 @@
-# IIT-guwathi-
+# IIT-guwathi (regression based models)-
 This project deals with my internship at IIT guwathi
 To understand the context of the problem and solutions to the problem please refer the pdf file in the repository
 the aim of the internship is to use regression based models to correctly predict the turbine efficiency in the language octave/matlab
